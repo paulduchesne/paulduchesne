@@ -1,10 +1,6 @@
-
-
 Hello, 
 
-![](/paul.jpg)
-
-A few things I like to do in my spare time...
+A few things I do with my time...
 
 ...experiments with Linked Open Data, using [Python](https://www.python.org/), [RDFlib](https://github.com/RDFLib/rdflib), [Wikibase](https://wikiba.se/) and [Apache Jena](https://jena.apache.org/).
 
