@@ -6,6 +6,10 @@
 
 [Dataset from David Stratton's Australia at the Movies with Wikidata identifiers](https://github.com/paulduchesne/stratton).    
 
+*Utilities*
+
+[Python script to clean the Desktop](https://github.com/paulduchesne/cleaner).
+
 
 
 
