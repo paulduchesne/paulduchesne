@@ -1,8 +1,12 @@
-- experiments with Linked Open Data, using [Python](https://www.python.org/), [RDFlib](https://github.com/RDFLib/rdflib), [Jena](https://jena.apache.org/) and [Oxigraph](https://github.com/oxigraph/oxigraph).
+*Datasets*
 
-- data analysis and visualisation with [Jupyter](https://github.com/jupyter) and [d3.js](https://github.com/d3/d3).
+[Dataset from Amos Vogel's Film as a Subversive Art with Wikidata identifiers](https://github.com/paulduchesne/film-as-a-subversive-art).
 
-- music with [SuperCollider](https://github.com/supercollider/supercollider) and [Pure Data](https://github.com/pure-data/pure-data) running on [Raspberry Pis](https://www.raspberrypi.org/).
+[Dataset from Andrew Pike and Ross Cooper's Australian Film 1900-1977 with Wikidata identifiers](https://github.com/paulduchesne/pike-cooper).   
+
+[Dataset from David Stratton's Australia at the Movies with Wikidata identifiers](https://github.com/paulduchesne/stratton).    
+
+
 
 
 
