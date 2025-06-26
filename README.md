@@ -8,7 +8,7 @@
 
 *Utilities*
 
-[Python script to cleanup Desktop](https://github.com/paulduchesne/cleaner).
+[Python script to cleanup desktop](https://github.com/paulduchesne/cleaner).
 
 
 
