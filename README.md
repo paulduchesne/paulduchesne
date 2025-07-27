@@ -10,7 +10,10 @@
 
 [Python script to cleanup desktop](https://github.com/paulduchesne/cleaner).
 
-[Pyhton script to validate text against KJV](https://github.com/paulduchesne/king-james-validator). 
+[Python script to generate a complex password](https://github.com/paulduchesne/generator).
+
+[Python script to validate text against KJV](https://github.com/paulduchesne/king-james-validator). 
+
 
 
 
