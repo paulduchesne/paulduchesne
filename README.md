@@ -4,7 +4,11 @@
 
 [Dataset from Andrew Pike and Ross Cooper's Australian Film 1900-1977 with Wikidata identifiers](https://github.com/paulduchesne/pike-cooper).   
 
-[Dataset from David Stratton's Australia at the Movies with Wikidata identifiers](https://github.com/paulduchesne/stratton).    
+[Dataset from David Stratton's Australia at the Movies with Wikidata identifiers](https://github.com/paulduchesne/stratton).   
+
+*Ontologies*
+
+[FIAFcore is an ontology for film archives](https://github.com/FIAF/fiafcore).
 
 *Utilities*
 
