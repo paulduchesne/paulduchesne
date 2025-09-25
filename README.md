@@ -6,6 +6,10 @@
 
 [Dataset from David Stratton's Australia at the Movies with Wikidata identifiers](https://github.com/paulduchesne/stratton).   
 
+*Notebooks*
+
+[Creator matching between filmographic datasets](https://github.com/paulduchesne/filmography-matching).
+
 *Ontologies*
 
 [FIAFcore is an ontology for film archives](https://github.com/FIAF/fiafcore).
