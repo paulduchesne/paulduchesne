@@ -12,6 +12,8 @@
 
 [Derive the transformation from graded film scans](https://github.com/paulduchesne/lut-generator).
 
+[Transformation of film scans based on LAD values](https://github.com/paulduchesne/lad-based-film-transformation).
+
 *Ontologies*
 
 [FIAFcore is an ontology for film archives](https://github.com/FIAF/fiafcore).
