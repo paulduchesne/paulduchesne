@@ -10,6 +10,8 @@
 
 [Creator matching between filmographic datasets](https://github.com/paulduchesne/filmography-matching).
 
+[Derive the transformation from graded film scans.](https://github.com/paulduchesne/lut-generator).
+
 *Ontologies*
 
 [FIAFcore is an ontology for film archives](https://github.com/FIAF/fiafcore).
@@ -20,7 +22,7 @@
 
 [Python script to generate a complex password](https://github.com/paulduchesne/generator).
 
-[Python script to validate text against KJV](https://github.com/paulduchesne/king-james-validator). 
+[Python script to validate text against the KJV](https://github.com/paulduchesne/king-james-validator). 
 
 
 
