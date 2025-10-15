@@ -10,7 +10,7 @@
 
 [Creator matching between filmographic datasets](https://github.com/paulduchesne/filmography-matching).
 
-[Derive the transformation from graded film scans.](https://github.com/paulduchesne/lut-generator).
+[Derive the transformation from graded film scans](https://github.com/paulduchesne/lut-generator).
 
 *Ontologies*
 
