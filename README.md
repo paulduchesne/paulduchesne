@@ -12,6 +12,8 @@
 
 [Derive the transformation from graded film scans](https://github.com/paulduchesne/lut-generator).
 
+[Disambiguate filmographic creators based on mutual "friends"](https://github.com/paulduchesne/friend-of-a-friend). 
+
 [Transformation of film scans based on LAD values](https://github.com/paulduchesne/lad-based-film-transformation).
 
 *Ontologies*
