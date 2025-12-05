@@ -20,6 +20,10 @@
 
 [FIAFcore is an ontology for film archives](https://github.com/FIAF/fiafcore).
 
+*Projects*
+
+[Personal Knowledge Graph](https://github.com/paulduchesne/state).
+
 *Utilities*
 
 [Python script to cleanup desktop](https://github.com/paulduchesne/cleaner).
