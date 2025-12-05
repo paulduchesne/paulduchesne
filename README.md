@@ -22,7 +22,7 @@
 
 *Projects*
 
-[Personal Knowledge Graph](https://github.com/paulduchesne/state).
+[A Personal Knowledge Graph](https://github.com/paulduchesne/state).
 
 *Utilities*
 
