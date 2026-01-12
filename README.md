@@ -6,6 +6,8 @@
 
 [Dataset from David Stratton's Australia at the Movies with Wikidata identifiers](https://github.com/paulduchesne/stratton).   
 
+[Dataset from the Women Film Pioneers Project with Wikidata identifiers](https://github.com/paulduchesne/women-film-pioneers-project).   
+
 *Notebooks*
 
 [Creator matching between filmographic datasets](https://github.com/paulduchesne/filmography-matching).
