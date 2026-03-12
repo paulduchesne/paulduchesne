@@ -8,6 +8,8 @@
 
 [Dataset from Ozmovies with Wikidata identifiers](https://github.com/paulduchesne/ozmovies).   
 
+[Dataset from the 1958 International Film Poll with relevant Wikidata identifiers](https://github.com/paulduchesne/international-film-poll).
+
 [Dataset from the Women Film Pioneers Project with Wikidata identifiers](https://github.com/paulduchesne/women-film-pioneers-project).   
 
 *Notebooks*
