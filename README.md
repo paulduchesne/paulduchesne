@@ -1,7 +1,5 @@
 *Datasets*
 
-[Dataset from Amos Vogel's Film as a Subversive Art with Wikidata identifiers](https://github.com/paulduchesne/film-as-a-subversive-art).
-
 [Dataset from Ozmovies with Wikidata identifiers](https://github.com/paulduchesne/ozmovies).   
 
 [Dataset from the Women Film Pioneers Project with Wikidata identifiers](https://github.com/paulduchesne/women-film-pioneers-project). 
@@ -11,6 +9,8 @@
 [Wikidata representation of Australian Film 1900-1977](https://github.com/paulduchesne/pike-cooper). 
 
 [Wikidata representation of Australian Film 1978-1994](https://github.com/paulduchesne/murray).
+
+[Wikidata representation of Film as a Subversive Art](https://github.com/paulduchesne/film-as-a-subversive-art).
 
 [Wikidata representation of the International Film Poll](https://github.com/paulduchesne/international-film-poll). 
 
